@@ -4,8 +4,6 @@
 ##
 <h3 align="left">📭 Connect With Me</h3>
 
-##
-
 <div align="left">
   <a href="https://www.linkedin.com/in/justinpansacola/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,6 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+##
 
 ###
 
@@ -23,7 +22,7 @@
 
 <p align="left">I'm Justin from Singapore 🇸🇬 <br><br>- 🔭 I’m an Undergraduate in Singapore Management University<br>- 📚 I'm pursuing a Bachelor's Degree in Information Systems, majoring in Business Analytics and Digitalization / Cloud Solutions<br>- ⚡ I'm highly passionate towards Software Development</p>
 
-###
+##
 
 <h3 align="left">Frontend Tools</h3>
 
@@ -39,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">Backend Tools</h3>
 
@@ -58,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">🔥   My Stats :</h3>
 
