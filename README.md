@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3600&pause=1000&color=7491B2&vCenter=true&width=801&lines=Hi+there%2C+welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=36&duration=3600&pause=1000&vCenter=true&width=801&lines=Hi+there%2C+I'm+Justin+Pansacola!)](https://git.io/typing-svg)
 
 ##
 <h3 align="left">📭 Connect With Me</h3>
