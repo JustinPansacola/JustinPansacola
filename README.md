@@ -4,8 +4,9 @@
 </div>
 
 ###
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Justin+Pansacola&center=true)](https://git.io/typing-svg)
-
+</div>
 ###
 
 <div align="center">
