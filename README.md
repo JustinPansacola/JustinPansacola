@@ -1,12 +1,10 @@
 ### 
 <div align="center">
   <img height="150" src="https://media.licdn.com/dms/image/C5603AQEnh9_hsKwaSQ/profile-displayphoto-shrink_400_400/0/1659521988089?e=1686787200&v=beta&t=n0b5QfCQHxhooNWlJgKEE7gjyBsrR0vLzByCXUTGDlI"  />
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Justin+Pansacola&center=true)](https://git.io/typing-svg)
 </div>
 
-###
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Justin+Pansacola&center=true)](https://git.io/typing-svg)
-</div>
+
 ###
 
 <div align="center">
