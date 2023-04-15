@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=36&duration=3600&pause=1000&vCenter=true&width=801&lines=Hi+there%2C+I'm+Justin+Pansacola!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=4C71F8&font=Roboto+Mono&weight=700&size=36&duration=3600&pause=1000&vCenter=true&width=801&lines=Hi+there%2C+I'm+Justin+Pansacola!)](https://git.io/typing-svg)
 
 ##
 <h3 align="left">📭 Connect With Me</h3>
@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
